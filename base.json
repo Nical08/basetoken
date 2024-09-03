@@ -1,24 +1,2 @@
 
-{
-    "name": "Combat Wombat",
-    "symbol": "COMBAT",
-    "uri": "https://combatwombatonsol.com/index.html",
-    "description": "This is the crypto revolution. Are you ready to fight?",
-    "image": "https://github.com/Nical08/basetoken/blob/main/photo_2024-09-02_22-08-59.jpg",
-    "properties": {
-      "creators": [
-        {
-          "address": "HmH5XoaxKBuTffrq7S5n8uUHsJsXYU1aAzVjZFXSWSn4",
-          "share": 100
-        }
-      ],
-      "additional_links": {
-        "website": "https://combatwombatonsol.com/index.html",
-        "twitter": "https://x.com/COMBATsoll",
-        "telegram": "https://t.me/Combat_Portal"
-        
-      }
-    }
-  }
-  
   
